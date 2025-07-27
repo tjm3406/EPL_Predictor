@@ -1,1 +1,2 @@
 # EPL_Predictor
+A project in R to predict the winner of the English Premier League (EPL) using a variety of features, including team statistics and match history. Models tested were linear regression and logistic regression. The best model was able to predict the winner of the EPL with an accuracy of about 60%. Linear regression was used as a classifer by predicting the goal difference between the two teams. If the goal difference was positive, the home team won. If the goal difference was negative, the away team won.
